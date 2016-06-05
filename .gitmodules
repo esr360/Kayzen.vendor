@@ -1,0 +1,57 @@
+[submodule "Enlighter"]
+	path = Enlighter
+	url = https://github.com/AndiDittrich/EnlighterJS.git
+[submodule "Font-Awesome"]
+	path = Font-Awesome
+	url = https://github.com/FortAwesome/Font-Awesome.git
+[submodule "Infinite-Ajax-Scroll"]
+	path = Infinite-Ajax-Scroll
+	url = https://github.com/webcreate/infinite-ajax-scroll.git
+[submodule "Isotope"]
+	path = Isotope
+	url = https://github.com/metafizzy/isotope.git
+[submodule "jQuery"]
+	path = jQuery
+	url = https://github.com/jquery/jquery.git
+[submodule "jquery-animateNumber"]
+	path = jquery-animateNumber
+	url = https://github.com/aishek/jquery-animateNumber
+[submodule "k-preloaders"]
+	path = k-preloaders
+	url = https://github.com/esr360/k-preloaders.git
+[submodule "Kayzen-GS"]
+	path = Kayzen-GS
+	url = https://github.com/esr360/Kayzen-GS.git
+[submodule "Magnific-Popup"]
+	path = Magnific-Popup
+	url = https://github.com/dimsemenov/Magnific-Popup.git
+[submodule "Masonry"]
+	path = Masonry
+	url = https://github.com/SnapKit/Masonry.git
+[submodule "matchMedia"]
+	path = matchMedia
+	url = https://github.com/paulirish/matchMedia.js.git
+[submodule "MooTools-Core"]
+	path = MooTools-Core
+	url = https://github.com/mootools/mootools-core.git
+[submodule "normalize-scss"]
+	path = normalize-scss
+	url = https://github.com/JohnAlbin/normalize-scss.git
+[submodule "Owl-Carousel"]
+	path = Owl-Carousel
+	url = https://github.com/OwlCarousel2/OwlCarousel2.git
+[submodule "pseudojQuery"]
+	path = pseudojQuery
+	url = https://github.com/esr360/pseudojQuery.git
+[submodule "ScrollTrigger"]
+	path = ScrollTrigger
+	url = https://github.com/esr360/ScrollTrigger.git
+[submodule "Stellar"]
+	path = Stellar
+	url = https://github.com/markdalgleish/stellar.js.git
+[submodule "Synergy"]
+	path = Synergy
+	url = https://github.com/esr360/Synergy.git
+[submodule "TweeCool"]
+	path = TweeCool
+	url = https://github.com/esr360/tweecool-jquery-plugin.git
