@@ -25,9 +25,6 @@
 [submodule "Magnific-Popup"]
 	path = Magnific-Popup
 	url = https://github.com/dimsemenov/Magnific-Popup.git
-[submodule "Masonry"]
-	path = Masonry
-	url = https://github.com/SnapKit/Masonry.git
 [submodule "matchMedia"]
 	path = matchMedia
 	url = https://github.com/paulirish/matchMedia.js.git
