@@ -52,3 +52,6 @@
 [submodule "TweeCool"]
 	path = TweeCool
 	url = https://github.com/esr360/tweecool-jquery-plugin.git
+[submodule "Masonry"]
+	path = Masonry
+	url = https://github.com/desandro/masonry.git
